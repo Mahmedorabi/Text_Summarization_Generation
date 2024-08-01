@@ -53,3 +53,6 @@ Run the cells to generate a summary. The number of sentences in the summary can 
 ## Notes
 - The Glove embeddings file (glove.6B.100d.txt) must be available in the working directory or specified path.
 - The input data must be in CSV format with an 'article_text' column.
+- Extracting Word Vector(link for download a glove)
+  https://www.kaggle.com/datasets/wiseyy/glove6b100dtxt
+
